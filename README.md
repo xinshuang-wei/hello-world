@@ -1,4 +1,4 @@
 # hello-world
 my first github program
 
-with covid will be gone soon
+wish covid will be gone soon
